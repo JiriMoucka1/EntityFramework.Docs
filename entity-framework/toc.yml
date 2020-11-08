@@ -26,7 +26,7 @@
       items:
       - name: EF Core Overview
         items:
-        - name: What is EF Core? <<<--- No Page
+        #- name: What is EF Core? <<<--- No Page
         - name: Getting EF Core <<<--- formerly Install EF Core
           href: core/get-started/overview/install.md
         - name: Your first EF Core App <<<--- formerly EF Core tutorial
@@ -37,7 +37,7 @@
         href: /aspnet/core/blazor/blazor-server-ef-core
       - name: WPF .NET Core tutorial
         href: core/get-started/wpf.md
-      - name: Windows Forms tutorial <<<--- No Page
+      #- name: Windows Forms tutorial <<<--- No Page
       - name: Xamarin tutorial
         href: core/get-started/xamarin.md
 
@@ -124,7 +124,7 @@
       - name: Spatial data
         displayName: GIS
         href: core/modeling/spatial.md
-      - name: Conventions <<<--- No Page
+      #- name: Conventions <<<--- No Page
 
     - name: Manage database schemas
       items:
@@ -205,15 +205,15 @@
       - name: Explicit values for generated properties
         href: core/saving/explicit-values-generated-properties.md
 
-    - name: Change tracking
-      items:
-      - name: Overview <<<--- No Page
-      - name: Property changes <<<--- No Page
-      - name: Relationship changes <<<--- No Page
-      - name: Find and local queries <<<--- No Page
-      - name: Accessing entity state <<<--- No Page
-      - name: Notification entities <<<--- No Page
-      - name: Change tracking proxies <<<--- No Page
+    #- name: Change tracking
+    #  items:
+    #  - name: Overview <<<--- No Page
+    #  - name: Property changes <<<--- No Page
+    #  - name: Relationship changes <<<--- No Page
+    #  - name: Find and local queries <<<--- No Page
+    #  - name: Accessing entity state <<<--- No Page
+    #  - name: Notification entities <<<--- No Page
+    #  - name: Change tracking proxies <<<--- No Page
 
     - name: Logging, events, and diagnostics
       items:
@@ -223,13 +223,13 @@
         href: core/logging-events-diagnostics/logging.md
       - name: Simple logging <<<--- Moved from events/simple-logging.md
         href: core/logging-events-diagnostics/simple-logging.md
-      - name: Microsoft.Extensions.Logging <<<--- No Page
-      - name: ToQueryString <<<--- No Page
-      - name: Events <<<--- No Page
-      - name: Interceptors <<<--- No Page
-      - name: Diagnostic listeners <<<--- No Page
-      - name: Debug views <<<--- No Page
-      - name: Event counters <<<--- No Page
+      #- name: Microsoft.Extensions.Logging <<<--- No Page
+      #- name: ToQueryString <<<--- No Page
+      #- name: Events <<<--- No Page
+      #- name: Interceptors <<<--- No Page
+      #- name: Diagnostic listeners <<<--- No Page
+      #- name: Debug views <<<--- No Page
+      #- name: Event counters <<<--- No Page
 
     - name: Testing
       items:
@@ -252,7 +252,7 @@
         href: core/miscellaneous/async.md
       - name: Nullable reference types
         href: core/miscellaneous/nullable-reference-types.md
-      - name: Using dependency injection <<<--- No Page
+      #- name: Using dependency injection <<<--- No Page
       - name: Collations and case sensitivity
         href: core/miscellaneous/collations-and-case-sensitivity.md
       - name: Connection resiliency
